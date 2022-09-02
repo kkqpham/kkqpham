@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kkqpham
 - 👀 I’m interested in Data Analyst, Data Science, and Cloud Development.
-- 🌱 I’m currently learning Python, SQL, and C++
+- 🌱 I’m currently learning Python, SQL, and JavaScript.
 - 📫 Reach me by 
 
 <!---
